@@ -8,5 +8,5 @@ Xcode File Header Templates
 3. Copy it inside UserData folder `~/Library/Developer/Xcode/UserData/`
 
 ## Read more
-- [Customizing the file header comment and other text macros in Xcode 9 by Ole Begemann] (https://oleb.net/blog/2017/07/xcode-9-text-macros/)
-- [Text macros reference by Apple] (https://help.apple.com/xcode/mac/9.0/index.html?localePath=en.lproj#/dev7fe737ce0)
+- [Customizing the file header comment and other text macros in Xcode 9 by Ole Begemann](https://oleb.net/blog/2017/07/xcode-9-text-macros/)
+- [Text macros reference by Apple](https://help.apple.com/xcode/mac/9.0/index.html?localePath=en.lproj#/dev7fe737ce0)
