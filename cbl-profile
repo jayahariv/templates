@@ -35,6 +35,7 @@ alias slog="git log --graph --full-history --all --pretty=format:"%h%x09%d%x20%s
 alias diff="git diff"
 alias dif="diff"
 alias setup="git branch --set-upstream-to=origin/master "
+alias clone='git clone '
 
 # Misc
 alias pro="vim ~/.bash_profile"
